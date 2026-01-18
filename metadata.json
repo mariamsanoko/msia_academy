@@ -1,0 +1,8 @@
+{
+  "name": "Connect Studio - MS I.A Academy",
+  "description": "A cutting-edge AI creative suite featuring real-time multi-modal interaction, image generation, and educational resources powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
